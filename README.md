@@ -4,4 +4,4 @@ Projeto Flutter desenvolvido na disciplina de Implementação de Sistemas Móvei
 
 Tela de Login seguindo o vídeo https://www.youtube.com/watch?v=lmArDnXxvtQ&t=658s
 
-- Executar projeto: flutter run
+- flutter run
